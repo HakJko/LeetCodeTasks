@@ -1,4 +1,4 @@
-package IharKoshman.Array;
+package IharKoshman.array;
 
 /**
  * Determine if a 9 x 9 Sudoku board is valid.

@@ -1,4 +1,4 @@
-package IharKoshman.Array;
+package IharKoshman.array;
 
 /**
  * Given a non-empty array of integers numbers, every element appears twice except for one.

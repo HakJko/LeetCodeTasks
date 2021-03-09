@@ -1,4 +1,4 @@
-package IharKoshman.Array;
+package IharKoshman.array;
 
 import java.util.Arrays;
 

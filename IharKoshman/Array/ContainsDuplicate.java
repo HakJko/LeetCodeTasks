@@ -1,4 +1,4 @@
-package IharKoshman.Array;
+package IharKoshman.array;
 
 /**
  * Given an integer array numbers, return true if any value appears at least twice in the array,
